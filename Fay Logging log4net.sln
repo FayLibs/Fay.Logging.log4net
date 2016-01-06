@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fay.Logging.log4net", "src\Fay.Logging.log4net\Fay.Logging.log4net.csproj", "{677600DE-8E6B-4898-9CB8-68B4DE70E9C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{75C4CAC8-EDE4-401B-838D-A7E0D270140D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C4CAC8-EDE4-401B-838D-A7E0D270140D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C4CAC8-EDE4-401B-838D-A7E0D270140D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677600DE-8E6B-4898-9CB8-68B4DE70E9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677600DE-8E6B-4898-9CB8-68B4DE70E9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677600DE-8E6B-4898-9CB8-68B4DE70E9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677600DE-8E6B-4898-9CB8-68B4DE70E9C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

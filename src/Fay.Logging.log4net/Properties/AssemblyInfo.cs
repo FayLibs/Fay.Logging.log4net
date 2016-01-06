@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Fey Logging Library for log4net")]
+[assembly: AssemblyTitle("Fay Logging Library for log4net")]
 [assembly: AssemblyDescription("Facade for logging to the log4net")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Rodney S. Foley")]
-[assembly: AssemblyProduct("Fey Logging Library for log4net")]
+[assembly: AssemblyProduct("Fay Logging Library for log4net")]
 [assembly: AssemblyCopyright("Copyright © 2015 Rodney S. Foley")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

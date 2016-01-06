@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 using Fay.Logging;
-using Fey.Logging.Log4Net;
+using Fay.Logging.Log4Net;
 using log4net.Core;
 using Moq;
 using Ploeh.AutoFixture.Xunit2;

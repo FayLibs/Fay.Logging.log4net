@@ -5,7 +5,7 @@ using Fay.Logging;
 using log4net;
 using log4net.Core;
 
-namespace Fey.Logging.Log4Net
+namespace Fay.Logging.Log4Net
 {
     public sealed class L4NSimpleLogger : DelegateLogger<object>
     {

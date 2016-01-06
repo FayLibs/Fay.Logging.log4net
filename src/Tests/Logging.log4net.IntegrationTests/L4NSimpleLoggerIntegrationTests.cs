@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using Fay.Logging;
-using Fey.Logging.Log4Net;
+using Fay.Logging.Log4Net;
 using log4net;
 using log4net.Appender;
 using log4net.Config;
