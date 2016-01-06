@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Fay.Logging.log4net</id>
+    <version>0.9.0</version>
+    <title>Fay Logging log4net</title>
+    <authors>Rodney S. Foley</authors>
+    <owners>Rodney S. Foley</owners>
+    <licenseUrl>https://github.com/FayLibs/Fay.Logging.log4net/blob/master/LICENCE.txt</licenseUrl>
+    <projectUrl>http://github.com/FayLibs/Fay.Logging.log4net</projectUrl>
+    <iconUrl>http://raw.githubusercontent.com/FayLibs/FayAssets/master/Images/FayLogo64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  <summary>A Fay Logging facade for log4net</summary>
+    <description>It is a Fay Logging facade for the log4net. This facade provides a simple delegate logging API making logging easier, while helping to make sure any of the code required to generate a log message is not executed unless the logging level is within scope.</description>
+	  <language>en-US</language>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright © 2015 Rodney S. Foley</copyright>
+    <tags>fay faylogging logging delegate logger log tracing logfiles api facade library log4net</tags>
+    <dependencies>
+      <dependency id="Fay.Logging" version="[0.9.0]" />
+      <dependency id="log4net" version="[2.0.1, 3.0.0)" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src=".\src\Fay.Logging.log4net\bin\Release\Fay.Logging.log4net.dll" target="lib\net45" />
+    <file src=".\src\Fay.Logging.log4net\bin\Release\Fay.Logging.log4net.XML" target="lib\net45" />
+  </files>
+</package>
