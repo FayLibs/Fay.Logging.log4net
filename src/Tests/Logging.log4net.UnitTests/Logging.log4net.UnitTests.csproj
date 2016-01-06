@@ -83,12 +83,6 @@
     <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Fey.Logging.log4net\Fey.Logging.log4net.csproj">
-      <Project>{677600de-8e6b-4898-9cb8-68b4de70e9c2}</Project>
-      <Name>Fey.Logging.log4net</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
