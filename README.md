@@ -32,3 +32,9 @@ Below is a simplified example for logging. A more robust implementation may use 
 
 [FayLog]:  https://github.com/FayLibs/Fay.Logging
 [log4net]: http://logging.apache.org/log4net/
+
+## Downloads
+
+Fey Logging is available via NuGet:
+
+- [Fay Logging log4net] (https://www.nuget.org/packages/Fay.Logging.log4net/)
